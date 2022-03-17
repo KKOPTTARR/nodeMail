@@ -4,7 +4,7 @@ const {MongoClient} = require("mongodb")
 //定义数据库连接的地址
 const url = "mongodb://127.0.0.1:27017"
 
-//定义要操作的数据库
+//定义要操作的数据库名
 const dbName = "nodeMail"
 
 //实例化MongoClient 传入数据库连接地址,加入第二个参数防止后期不被支持
