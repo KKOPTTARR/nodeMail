@@ -1,7 +1,6 @@
 {
-  "name": "node-mail",
+  "name": "mail",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,15 @@
   "dependencies": {
     "nodemailer": "^6.7.2",
     "nodemailer-smtp-transport": "^2.7.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKOPTTARR/nodeMail.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KKOPTTARR/nodeMail/issues"
+  },
+  "homepage": "https://github.com/KKOPTTARR/nodeMail#readme",
+  "description": ""
 }
